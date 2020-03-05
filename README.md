@@ -1,23 +1,21 @@
 
-# Rob's Guide to Bootstrapping a Technology Project
-
-
+# Rob's Guide to Bootstrapping Technology Projects
 
 ## Contents
 1. Establish Communications
-    - Setup standup
-    - Define Collaboration hub
+    - Setup the standup
+    - Define collaboration hub
     - Backlog
-    - Information Radiator
+    - Information radiator
 
 1. Architecture
     - Define project name
-    - Agree tech
-    - Give _everything_ a clear concise name
-    - Create Diagram using a tool that’s viewable by everyone (preferably print it out and place near the information radiator)
-    - Agree Environments 
+    - Agree technology stack
+    - Give _everything_ clear, concise names
+    - Create & share diagram(s)
+    - Agree environments
     - Agree naming standards
-    - Agree standard Logging Levels
+    - Agree standard logging levels
 
 1. Environments
     - Agree Environments (Names, purpose, ephemeral nature etc)
@@ -48,3 +46,5 @@
 ### Backlog
 ### Information Radiator
 
+
+ using a tool that’s viewable by everyone (preferably print it out and place near the information radiator)
