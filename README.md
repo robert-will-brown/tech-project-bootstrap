@@ -1,10 +1,12 @@
 
-# Rob's guide to bootstrapping a technology project
+# Rob's Guide to Bootstrapping a Technology Project
+
+
 
 ## Contents
-1. Communications
+1. Establish Communications
     - Setup standup
-    - Collaboration hub (Slack, Teams, RocketChat, etc)
+    - Define Collaboration hub
     - Backlog
     - Information Radiator
 
@@ -35,7 +37,14 @@
 1. Jenkins (Continuous Integration / Deployment)
     - Connect to all repos above
 
-1. Monitoring
+1. Monitoring & Alerting
     - AWS Costs
     - Endpoints
-    - node_exporter
+    - Hosts
+
+## Establish Communications
+### Setup standup
+### Define Collaboration hub
+### Backlog
+### Information Radiator
+
