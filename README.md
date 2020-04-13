@@ -5,9 +5,9 @@
 1. Rules
     - Automate everything
     - 2am test
-    - Everyone to know the next milestone
+    - Milestone Visibility
     - Low mental excercise
-    - Face-to-face beets all other communications methods
+    - Face-to-face
     - Low friction gets stuff done
     - Repeat to boredom (clearing your mask)
     - No hero’s
@@ -26,12 +26,11 @@
     - Agree environments
     - Agree naming standards
     - Agree standard logging levels
-
-1. Environments
     - Agree Environments (Names, purpose, ephemeral nature etc)
     - Add to diagrams
 
 1. Deployments
+    - Branching Strategy
     - Agree deployment approach of each component
 
 1. Source Code Repositories
