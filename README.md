@@ -1,6 +1,6 @@
 # Introduction
     
-Boot strapping and running technology projects to deliver great outcomes for customers is a skill that takes many projects to learn to be effective.
+Boot strapping and running technology projects to deliver great outcomes for customers takes experience.  There are a lot of skills, many of them soft as well as technical to master before a project can be run nearly effortlessly.
 
 ## Rules
 
