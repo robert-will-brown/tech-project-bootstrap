@@ -20,7 +20,7 @@ Lorem Ipsum
 
 Lorem Ipsum
 
-### face-to-face
+### Face-to-face
 
 Lorem Ipsum
 
