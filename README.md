@@ -2,17 +2,39 @@
 
 ## Rules
 
-### test
+### Automate, automate, automate
 
-this is some
+Lorem Ipsum
 
-#### And this is some more
+### Monitor, monitor, monitor
 
+Lorem Ipsum
 
+### 2am test
 
-This was added from Github
+Lorem Ipsum
 
+### Milestone visibility
 
+Lorem Ipsum
 
+### Low mental excercise
 
+Lorem Ipsum
+
+### face-to-face
+
+Lorem Ipsum
+
+### Low friction gets stuff done
+
+Lorem Ipsum
+
+### Repeat to boredom \(clearing your mask\)
+
+Lorem Ipsum
+
+### No hero's
+
+Lorem Ipsum
 
