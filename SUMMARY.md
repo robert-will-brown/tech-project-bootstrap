@@ -23,5 +23,4 @@
 ## Run
 
 * [Monitoring & Alerting](run/monitoring-and-alerting.md)
-* [Costs](run/costs.md)
 
