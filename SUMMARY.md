@@ -1,22 +1,27 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
 
-## Establish Communications
+## Communications
 
-* [Standup](establish-communications/standup.md)
-* [Collaboration hub](establish-communications/collaboration-hub.md)
-* [Backlog](establish-communications/backlog.md)
-* [Information radiator](establish-communications/information-radiator.md)
+* [Standup](communications/standup.md)
+* [Collaboration hub](communications/collaboration-hub.md)
+* [Backlog](communications/backlog.md)
+* [Information radiator](communications/information-radiator.md)
 
-## Architecture & Deployment
+## Architect
 
-* [Project name](architecture-and-deployment/define-project-name.md)
-* [Technology stack](architecture-and-deployment/technology-stack.md)
-* [Agree Environments](architecture-and-deployment/agree-environments.md)
-* [Give everything clear, concise names](architecture-and-deployment/give-everything-clear-concise-names.md)
-* [Diagrams](architecture-and-deployment/diagrams.md)
-* [Agree logging standards](architecture-and-deployment/agree-logging-standards.md)
-* [Deployment Approach](architecture-and-deployment/deployment-approach.md)
-* [Source Code Repositories](architecture-and-deployment/source-code-repositories.md)
+* [Project name](architect/define-project-name.md)
+* [Technology stack](architect/technology-stack.md)
+* [Environments](architect/agree-environments.md)
+* [Naming](architect/give-everything-clear-concise-names.md)
+* [Diagrams](architect/diagrams.md)
+* [Logging](architect/agree-logging-standards.md)
+* [Deployments](architect/deployment-approach.md)
+* [Source Code](architect/source-code-repositories.md)
+
+## Run
+
+* [Monitoring & Alerting](run/monitoring-and-alerting.md)
+* [Costs](run/costs.md)
 
