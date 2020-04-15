@@ -4,6 +4,7 @@
 
 ## Communications
 
+* [Rules](communications/rules.md)
 * [Standup](communications/standup.md)
 * [Collaboration hub](communications/collaboration-hub.md)
 * [Backlog](communications/backlog.md)
