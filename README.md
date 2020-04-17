@@ -6,5 +6,7 @@ I’ve never managed the effortless part.
 
 That being said I have learned a lot from a whole bunch of great people that I’ve tried to employ on every project I now run, which improves the likelihood of a great outcome.
 
+That being said I have learned a lot from a whole bunch of great people that I’ve tried to employ on every project I now run, which improves the likelihood of a great outcome.
+
 The following “guide” is meant as an aide memoir to myself to make sure I follow my own advice and implement these learnings in a structured way.
 
