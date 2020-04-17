@@ -1,4 +1,4 @@
-# Rules
+# The Rules
 
 ### Automate, automate, automate
 
